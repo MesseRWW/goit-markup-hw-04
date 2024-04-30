@@ -334,6 +334,9 @@ img {
   color: #2e2f42;
   margin-bottom: 72px;
 }
+.card-portfolio:hover .portfolio-text{
+  transform: translateY(0%);
+}
 .card-portfolio-title {
   font-size: 20px;
   font-weight: 500;
